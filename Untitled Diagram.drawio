@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T01:01:25.335Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.9" etag="_hqUXmEWufW4joi_vIOY" type="github"><diagram id="43APlSGEt5gTP99c-Pcx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-19T02:21:57.819Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="XB95NcFfmxFg7A9mx4fE" version="14.4.9" type="github">
+  <diagram id="43APlSGEt5gTP99c-Pcx" name="Page-1">
+    <mxGraphModel dx="946" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E-zg8rHtMRUsfEvMuqXt-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-50" width="630" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="E-zg8rHtMRUsfEvMuqXt-6" value="堆&lt;br&gt;Heap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-zg8rHtMRUsfEvMuqXt-7" value="方法区&lt;br&gt;Method Area" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-zg8rHtMRUsfEvMuqXt-8" value="程序计数器&lt;br&gt;Program Counter Register" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-zg8rHtMRUsfEvMuqXt-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" width="110" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="E-zg8rHtMRUsfEvMuqXt-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" width="110" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="E-zg8rHtMRUsfEvMuqXt-11" value="&lt;span&gt;虚拟机栈&lt;/span&gt;&lt;br&gt;&lt;span&gt;VM Stack&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="379" y="45" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
